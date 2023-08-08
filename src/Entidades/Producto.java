@@ -9,6 +9,6 @@ package Entidades;
  *
  * @author Manuel
  */
-public class Clientes {
-    //aqui iría algo pero no se me ocurre nada
+public class Producto {
+    
 }
