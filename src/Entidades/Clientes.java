@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package EjemploVersiones;
+package Entidades;
 
 /**
  *
  * @author Manuel
  */
 public class Clientes {
-    
+    //aqui iría algo pero no se me ocurre nada
 }
